@@ -1,0 +1,32 @@
+{
+  "name": "奶油小猫",
+  "base": "light",
+  "overrides": {
+    "text": "rgb(74,64,56)",
+    "inverseText": "rgb(246,233,211)",
+    "claude": "rgb(196,74,110)",
+    "claudeShimmer": "rgb(226,124,156)",
+    "clawd_body": "rgb(196,74,110)",
+    "clawd_background": "rgb(246,233,211)",
+    "promptBorder": "rgb(214,170,182)",
+    "promptBorderShimmer": "rgb(236,196,208)",
+    "permission": "rgb(98,120,70)",
+    "permissionShimmer": "rgb(138,160,110)",
+    "suggestion": "rgb(98,120,70)",
+    "success": "rgb(98,120,70)",
+    "inactive": "rgb(140,126,112)",
+    "inactiveShimmer": "rgb(170,156,142)",
+    "subtle": "rgb(184,166,144)",
+    "bashBorder": "rgb(196,74,110)",
+    "planMode": "rgb(98,120,70)",
+    "autoAccept": "rgb(170,96,140)",
+    "autoAcceptShimmer": "rgb(210,150,186)",
+    "userMessageBackground": "rgb(237,218,192)",
+    "userMessageBackgroundHover": "rgb(230,208,180)",
+    "bashMessageBackgroundColor": "rgb(239,224,200)",
+    "memoryBackgroundColor": "rgb(234,224,196)",
+    "selectionBg": "rgb(236,196,206)",
+    "briefLabelYou": "rgb(196,74,110)",
+    "briefLabelClaude": "rgb(98,120,70)"
+  }
+}
